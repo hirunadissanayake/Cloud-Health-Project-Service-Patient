@@ -83,5 +83,5 @@ The integration suite uses an isolated H2 database and does not require Cloud SQ
 | Property | Value |
 |---|---|
 | Student | Hiruna Dissanayake |
-| Student number | `TODO` |
+| Student number | `24171104` |
 | GCP project | `cloud-health-506015-hiruna` |
